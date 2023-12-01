@@ -1,3 +1,10 @@
+# WIP reference & project files - stored here to reference while traveling without internet
+/Animal_Shelter_Needs_Presentation.pdf
+/animal_shelter_needs_analysis.ipynb
+/example_dashboard.png
+dsc-project-template-example-mvp/
+dsc-project-template/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
