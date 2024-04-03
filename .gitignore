@@ -4,6 +4,7 @@
 /example_dashboard.png
 dsc-project-template-example-mvp/
 dsc-project-template/
+/.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
