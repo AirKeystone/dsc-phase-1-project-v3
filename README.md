@@ -37,5 +37,8 @@ We will be focusing on eliminating the 'human element' and less unpredicatable i
 
 
 [Business Presentation](presentation.pdf)
+
+
 [Interactive Tableau Dashboard](https://public.tableau.com/app/profile/connor.anastasio/viz/AircraftInvestmentAnalysis/Dashboard1?publish=yes)
-[^1]:For a full detailed analysis, please reference the [Jupyter Notebook](student.pdf) in this repository.
+
+[^1]:For a full detailed analysis, please reference the [Jupyter Notebook](https://github.com/connoranastasio/dsc-phase-1-project-v3/blob/master/student.pdf) in this repository.
